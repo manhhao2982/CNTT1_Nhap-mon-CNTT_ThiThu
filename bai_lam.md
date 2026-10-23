@@ -97,8 +97,9 @@ PS C:\Users\Manh Hao\Downloads\van-phong-pham-website> get-content .\logs\shop.l
 ### 2 dòng lỗi đầu tiên trong daily_report.txt
 
 ```text
-2025-10-28 08:18:28 [INFO] Dang nhap tai khoan khach
-2025-10-28 08:21:28 [INFO] Them san pham vao gio
+2025-10-28 08:24:28 [ERROR] Thanh toan bi tu choi
+2025-10-28 08:30:28 [ERROR] Thanh toan bi tu choi
+
 
 ```
 
